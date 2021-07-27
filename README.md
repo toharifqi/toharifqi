@@ -17,6 +17,8 @@
 [![Git](https://camo.githubusercontent.com/d638e91d72f72579eed17abaa515c0910ab8b1888a481a0119168fe6c626272b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![IntelliJIDEA](https://camo.githubusercontent.com/4f75a9cd0bdd182da5b3748e4b8bf9ef55c9e33b5ea1d53c0bdbb3cb145d6cc7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f6c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465)](https://jetbrains.tangunsoft.com/_id/)&nbsp;&nbsp;&nbsp;&nbsp;
 
+<br>
+
 **My Github Statistic:**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toharifqi&layout=compact&custom_title=Toharifqi%27s%20Programming%20Languages)](https://github.com/toharifqi/)
