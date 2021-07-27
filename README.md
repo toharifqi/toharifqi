@@ -1,5 +1,17 @@
-### Hi there 👋
+# Halo everyone! ✨
 
+- 😄 Let me introduce you. My name is **Rifqi Naufal Tohari** but my colleagues used to call me **Naufal**.  
+- 🔭 I am currently an **Freelance Android Developer**.  
+- 🌱 But I am still active on renewing my knowledge about Android Development. As the saying goes: The world is always changing mate..  
+- 👯 If you are interested to know more about me, let's get connected on [my Linkedin](https://www.linkedin.com/in/rifqi-naufal-tohari/).  
+- 💬 You can ask me anything about **Native Android Development** especially for **Kotlin** programming language.
+- 📫 How to reach me: rifqinaufaltohari@gmail.com .  
+  <br>
+
+**My Github Statistic:**  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toharifqi&layout=compact)
+![toharifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toharifqi&&show_icons=true&title_color=4F94EF&icon_color=F7BB00&text_color=24292e&bg_color=ffffff)
 <!--
 **toharifqi/toharifqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
