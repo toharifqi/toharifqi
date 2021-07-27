@@ -9,7 +9,7 @@
 
 <br>
 
-**My Tech Stack:**  
+**Tech Stack:**  
 <br>
 [![Android](https://camo.githubusercontent.com/eeb459fc13ab6e60e59ae4262a2c313ceeb3e6bc4440fe7554b5bb40c916a5ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f6c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465)](https://www.android.com/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Kotlin](https://camo.githubusercontent.com/6a98ed510332447594edfd7fe6f9761fd9e11b67a71e194773317c389f04ece1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333030393544352e7376673f6c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)](https://developer.android.com/kotlin)&nbsp;&nbsp;&nbsp;&nbsp;
