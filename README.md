@@ -1,4 +1,4 @@
-![Rifqi Naufal Tohari Banner](https://raw.githubusercontent.com/toharifqi/toharifqi/master/assets/naufal_banner.jpg)
+![Rifqi Naufal Tohari Banner](https://raw.githubusercontent.com/toharifqi/toharifqi/master/assets/naufal_banner.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Naufal</h2>
 
