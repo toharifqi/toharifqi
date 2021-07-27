@@ -2,6 +2,8 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Naufal</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=toharifqi&label=Profile%20views&color=0e75b6&style=flat" alt="toharifqi" /> </p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 😄 Let me introduce you. My name is **Rifqi Naufal Tohari** but my colleagues used to call me **Naufal**.  
