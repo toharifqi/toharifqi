@@ -1,8 +1,8 @@
 ![Rifqi Naufal Tohari Banner](https://raw.githubusercontent.com/toharifqi/toharifqi/master/assets/naufal_banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Naufal</h2>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toharifqi&label=Profile%20views&color=0e75b6&style=flat" alt="toharifqi" /> </p>
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Naufal</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -16,7 +16,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toharifqi&layout=compact&custom_title=Toharifqi%27s%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia)](https://github.com/toharifqi/)
-[![toharifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toharifqi&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Toharifqi%27s%20GitHub%20Statistics&line_height=20)](https://github.com/toharifqi/)
+[![toharifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toharifqi&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Toharifqi%27s%20GitHub%20Statistics&line_height=24&hide=contribs)](https://github.com/toharifqi/)
 
 ### 🛠 &nbsp;Tech Stack
 [![Android](https://camo.githubusercontent.com/eeb459fc13ab6e60e59ae4262a2c313ceeb3e6bc4440fe7554b5bb40c916a5ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f6c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465)](https://www.android.com/)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,18 +32,3 @@
 <a href="mailto:rifqinaufaltohari@gmail.com"><img src="https://img.shields.io/badge/-rifqinaufaltohari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/toharifqi_naufal/"><img src="https://img.shields.io/badge/-@toharifqi_naufal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/rifqinaufal.tohari/"><img src="https://img.shields.io/badge/-Rifqi Naufal T-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-<!--
-**toharifqi/toharifqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
