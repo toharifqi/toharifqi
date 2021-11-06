@@ -15,7 +15,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toharifqi&layout=compact&custom_title=Toharifqi%27s%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia)](https://github.com/toharifqi/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toharifqi&layout=compact&custom_title=Toharifqi%27s%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/toharifqi/)
 [![toharifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toharifqi&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Toharifqi%27s%20GitHub%20Statistics&line_height=24&hide=contribs)](https://github.com/toharifqi/)
 
 ### 🛠 &nbsp;Tech Stack
