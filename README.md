@@ -15,8 +15,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toharifqi&layout=compact&custom_title=Toharifqi%27s%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/toharifqi/)
-[![toharifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toharifqi&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Toharifqi%27s%20GitHub%20Statistics&line_height=24&hide=contribs)](https://github.com/toharifqi/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toharifqi&layout=compact&custom_title=My%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/toharifqi/)
+[![toharifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toharifqi&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics&line_height=24&hide=contribs)](https://github.com/toharifqi/)
 
 ### 🛠 &nbsp;Tech Stack
 [![Android](https://camo.githubusercontent.com/eeb459fc13ab6e60e59ae4262a2c313ceeb3e6bc4440fe7554b5bb40c916a5ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f6c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465)](https://www.android.com/)&nbsp;&nbsp;&nbsp;&nbsp;
