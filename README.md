@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 😄 Let me introduce you. My name is **Rifqi Naufal Tohari** but my colleagues used to call me **Naufal**.  
-🔭 I am currently an **Intern at GoJek Indonesia**.  
+🔭 I am currently an **Android Engineer at GoTo Financial**.  
 🌱 But I am still active on renewing my knowledge about Android Development. As the saying goes: The world is always changing mate..  
 👯 If you are interested to know more about me, let's get connected on [my Linkedin](https://www.linkedin.com/in/rifqi-naufal-tohari/).  
 💬 You can ask me anything about **Native Android Development** especially for **Kotlin** programming language.  
