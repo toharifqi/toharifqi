@@ -7,11 +7,20 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 😄 Let me introduce you. My name is **Rifqi Naufal Tohari** but my colleagues used to call me **Naufal**.  
-🔭 I am currently an **Android Engineer at GoTo Financial**.  
+🔭 I am currently an **Android Engineer at GoTo Financial** (for MokaPOS and GoStore OMS).  
 🌱 But I am still active on renewing my knowledge about Android Development. As the saying goes: The world is always changing mate..  
 👯 If you are interested to know more about me, let's get connected on [my Linkedin](https://www.linkedin.com/in/rifqi-naufal-tohari/).  
-💬 You can ask me anything about **Native Android Development** especially for **Kotlin** programming language.  
+💬 You can ask me anything about **Native Android Development** especially for **Kotlin** programming language.   
 📫 How to reach me: rifqinaufaltohari@gmail.com .  
+📝 During my daily work, I've been practicing:
+- **MVVM design pattern** (model-view-viewmodel)
+- **Clean architecture**
+- **SOLID principle**
+- **Dependency Injection** (using Dagger 2)
+- **Reactive Programming** (using coroutine flow(mostly) and RXjava (rarely))
+- **Unit testing** (using JUnit 4 and mockito)
+- **Project Modularization** (mostly for new features)
+- TBA for any new skills in the future 😉
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -23,6 +32,7 @@
 [![Kotlin](https://camo.githubusercontent.com/6a98ed510332447594edfd7fe6f9761fd9e11b67a71e194773317c389f04ece1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333030393544352e7376673f6c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)](https://developer.android.com/kotlin)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Java](https://camo.githubusercontent.com/42fa4c2830016039b78bda7e7eaf217a3ab202acf22cb9e6aa91d56a5301086d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)](https://www.java.com/en/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Git](https://camo.githubusercontent.com/d638e91d72f72579eed17abaa515c0910ab8b1888a481a0119168fe6c626272b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitLab](https://camo.githubusercontent.com/f87d8630ec7c921afdc59b94e959d2ed2205ee59f016a55d5b5a90018fcca72a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465)](https://about.gitlab.com/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![IntelliJIDEA](https://camo.githubusercontent.com/4f75a9cd0bdd182da5b3748e4b8bf9ef55c9e33b5ea1d53c0bdbb3cb145d6cc7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f6c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465)](https://jetbrains.tangunsoft.com/_id/)&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> <br><br><br><br><br><br><br>
 
