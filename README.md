@@ -7,20 +7,23 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 😄 Let me introduce you. My name is **Rifqi Naufal Tohari** but my colleagues used to call me **Naufal**.  
-🔭 I am currently an **Android Engineer at GoTo Financial** (for MokaPOS and GoStore OMS).  
+🔭 I am currently a **Software Engineer at GoTo Financial** [Android Engineer | Feb 2022 - May 2023], [Fullstack Engineer | May 2022 - Now].  
 🌱 But I am still active on renewing my knowledge about Android Development. As the saying goes: The world is always changing mate..  
 👯 If you are interested to know more about me, let's get connected on [my Linkedin](https://www.linkedin.com/in/rifqi-naufal-tohari/).  
 💬 You can ask me anything about **Native Android Development** especially for **Kotlin** programming language.   
 📫 How to reach me: rifqinaufaltohari@gmail.com .  
-📝 During my daily work, I've been practicing:
-- **MVVM design pattern** (model-view-viewmodel)
-- **Clean architecture**
-- **SOLID principle**
-- **Dependency Injection** (using Dagger 2)
-- **Reactive Programming** (using coroutine flow(mostly) and RXjava (rarely))
-- **Unit testing** (using JUnit 4 and mockito)
-- **Project Modularization** (mostly for new features)
-- TBA for any new skills in the future 😉
+📝 During my daily work, I've been practicing: 
+- **Android:** 
+    - **MVVM design pattern** (model-view-viewmodel)
+    - **Clean architecture**
+    - **SOLID principle**
+    - **Dependency Injection** (using Dagger 2)
+    - **Reactive Programming** (using coroutine flow(mostly) and RXjava (rarely))
+    - **Unit testing** (using JUnit 4 and mockito)
+    - **Project Modularization** (mostly for new features)
+- **Backend:** 
+    - **Spring Boot** (with Kotlin)
+    - **WebFlux for Reactive Programming**
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -40,5 +43,5 @@
 
 <a href="https://linkedin.com/in/rifqi-naufal-tohari/"><img src="https://img.shields.io/badge/-Rifqi%20Naufal%20Tohari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rifqinaufaltohari@gmail.com"><img src="https://img.shields.io/badge/-rifqinaufaltohari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/toharifqi_naufal/"><img src="https://img.shields.io/badge/-@toharifqi_naufal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/naufal_toharifqi/"><img src="https://img.shields.io/badge/-@naufal_toharifqi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/rifqinaufal.tohari/"><img src="https://img.shields.io/badge/-Rifqi Naufal T-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
